@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/33afd5da-baa9-4acc-86de-edf7cea6939c)
+!![Output](https://raw.githubusercontent.com/Jyoti9916/my-simple-website
+/main/output.PNG)
 # 🌐 My Simple Website
 
 Welcome to **My Simple Website** — a beginner-friendly project showcasing how to host a static website on an AWS EC2 instance using **Apache**, **Jenkins**, and **GitHub** for automated deployment 🚀.
